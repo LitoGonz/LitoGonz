@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gonzalezleandroandre@gmail.com**
 
-- 📄 Know about my experiences [JavaScript | React js | HTML | CSS | Node js | Sequelize | Express | SQL | Postgres](JavaScript | React js | HTML | CSS | Node js | Sequelize | Express | SQL | Postgres)
+- 📄 I have experience coding with: JavaScript | React js | HTML | CSS | Node js | Sequelize | Express | SQL | Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

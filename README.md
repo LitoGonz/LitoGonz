@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Web Visual Desing Courses**
 
-- 📫 How to reach me **gonzalezleandroandre@gmail.com**
+- 📫 How to reach me:
+-  **gonzalezleandroandre@gmail.com**
+-  **linkedin.com/in/leandro-andré-gonzalez-57b428227**
 
 - 📄 I have experience coding with: JavaScript | React js | HTML | CSS | Node js | Sequelize | Express | SQL | Postgres
 

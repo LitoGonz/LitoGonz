@@ -9,7 +9,7 @@
 -  **gonzalezleandroandre@gmail.com**
 -  **[linkedin.com/in/leandro-andré-gonzalez-57b428227](https://www.linkedin.com/in/leandro-andr%C3%A9-gonzalez-57b428227)**
 
-- 📄 I have experience coding with: JavaScript | React js | HTML | CSS | Node js | Sequelize | Express | SQL | Postgres
+- 📄 I have experience coding with: JavaScript | Python | Django | React js | Redux | Vue.js | Vite.js | HTML5 | CSS3 | Node js | Sequelize | Express | SQL | Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

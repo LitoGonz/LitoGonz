@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Full Stack Web developer from Argentina</h3>
 
-- 🌱 Check out my portfolio**
+- 🌱 Check out my portfolio
 
 - Portfolio: https://lito-portfolio.onrender.com/
 
